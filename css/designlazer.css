@@ -130,27 +130,27 @@ a {
 /*Contact us */
 .the-end .contact {padding-left:200px; float: left;  }
 .the-end .contact h2 {color: #FC820D; direction: rtl; font-size: 30px; margin-bottom: 0; } 
-.the-end .contact .pre {direction: ltr; color: #fff; font-weight: bold;}
+.the-end .contact .pre {direction: ltr; color: #111; font-weight: bold;}
 .the-end .contact p { color: #FC820D; width: 100%; font-weight: bold; margin-top: 0;}
-.the-end .contact pre {color : #fff ; text-align: right; direction: rtl; font-size: 15px; line-height:1.7; }
+.the-end .contact pre {color : #111 ; text-align: right; direction: rtl; font-size: 15px; line-height:1.7; }
 .the-end .footer {float: right;}
 .the-end .footer img {width:150px ; height: 150px ; float: left; padding-top:10px; padding: 0 ; margin: 10px; }
 .the-end .footer ul {}
 .the-end .footer ul li {background-color: #FC820D; margin: 5px; display: inline-block; cursor: pointer; }
 /*_________________________________Page2__________________________________*/
-.video {float: right;}
-.video iframe {width:500px; height:300px;  margin: 30px; margin-bottom: 0; border-top:20px solid #000 ; border-bottom: 20px solid #000; }
-.video pre {background: #7d8087; color: #fff; margin: 30px; margin-top: 0;}
-.video a {cursor: pointer; color: #fff; text-decoration: none;}
+.video{overflow: hidden;}
+.video iframe { height:300px;  margin: 10px; margin-bottom: 0; border-top:20px solid #000 ; border-bottom: 20px solid #000; }
+.video p { color: #111; margin: 10px; margin-top: 0;padding: 5px; }
+.video a {cursor: pointer; color: #111; text-decoration: none;}
 .video a:hover {background-color: #FC820D;}
 /*_________________________________Page3__________________________________*/
-.contact2 {float:right; color: #fff; width:30%; direction: rtl; margin: 2%; text-align: right; }
+.contact2 {float:right; color: #111111;  direction: rtl;  text-align: right; }
 .contact2 h2 {color:#FC820D; }
-.input {float: left; width: 60%; direction: rtl; color: #FC820D; margin: 2%;}
+.input { direction: rtl; color: #FC820D; }
 .input  .input1 {width: 48.5%; }
 .input  input {width:99%; height: 40px;margin: .6%; border-radius:5px;}
 .input textarea {width: 99% ; height: 200px; margin: .6%; border-radius: 5px;} 
-.input button {width:99% ; height: 50px ; line-height: 50px; text-align: center ; background: #FC820D; color: #333333; margin: .6%;
+.input button {width: 200px; ; height: 50px ; line-height: 50px; text-align: center ; background: #FC820D; color: #333333; margin: .6%;
 font-size: 20px; border-radius:5px; border: none; cursor: pointer; }
 /*___________________________ __________________*/
 
